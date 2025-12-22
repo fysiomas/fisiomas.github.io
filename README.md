@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Moja strona</title>
+  <title>FYSIOMAS</title>
   <meta name="description" content="Krótki opis strony pod Google." />
   <style>
     body{font-family:system-ui,Arial,sans-serif;max-width:820px;margin:40px auto;padding:0 16px;line-height:1.6}
