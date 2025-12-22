@@ -29,9 +29,9 @@
     <section class="box">
       <h2>Najważniejsze</h2>
       <ul>
-        <li>✅ Punkt 1 (np. konsultacje / usługa)</li>
-        <li>✅ Punkt 2 (np. dojazd / godziny)</li>
-        <li>✅ Punkt 3 (np. szybki termin)</li>
+        <li>Kursy</li>
+        <li>Miejsce i dojazd</li>
+        <li>Terminy</li>
       </ul>
       <a class="button" href="#kontakt">Umów wizytę</a>
     </section>
@@ -59,15 +59,15 @@
     <section id="kontakt">
       <h2>Kontakt</h2>
       <p>
-        📞 Telefon: <a href="tel:+48123456789">+48 123 456 789</a><br>
-        ✉️ Email: <a href="mailto:kontakt@twojadomena.pl">kontakt@twojadomena.pl</a><br>
-        📍 Miejscowość: Twoja miejscowość
+        📞 Telefon: <a href="tel:+4748632958">+47 486 32 958</a><br>
+        ✉️ Email: <a href="mailto:slyngemas@gmail.com">slyngemas@gmail.com</a><br>
+        📍 Miejscowość: Gdansk
       </p>
     </section>
   </main>
 
   <footer>
-    © <span id="y"></span> Twoja Nazwa. Wszelkie prawa zastrzeżone.
+    © <span id="y"></span> FYSIOMAS. Wszelkie prawa zastrzeżone.
   </footer>
 
   <script>
